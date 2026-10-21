@@ -1,4 +1,4 @@
-# Architecture Logicielle – exemples exécutables (M1 Tronc Commun · INGETIS)
+# Architecture Logicielle  (BISSOKOT & MAALLENI DATA)
 
 Prérequis : Node.js 20 ou plus récent (version LTS recommandée). Aucune dépendance à installer.
 
@@ -25,3 +25,6 @@ npm run tp5            # kit TP 5 · agrégat Alerte QueenBee (parcours Dev)
 
 Voir le guide pratique (Word / PDF) pour les explications détaillées.
 # archi-logicielle-exemples
+
+
+
