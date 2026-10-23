@@ -1,4 +1,6 @@
 // DOMAINE : l'entité Order et ses invariants. Aucun import technique.
+
+
 export class Order {
   #lines;
   constructor(id, customerId, lines, createdAt) {
